@@ -28,9 +28,9 @@
 
     // Deno options
     "deno.enable": true,
-	"deno.lint": true,
-	"deno.unstable": true,
-
+    "deno.lint": true,
+    "deno.unstable": true,
+    
     // Formatter options
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
@@ -46,5 +46,8 @@
     },
     "[xml]": {
         "editor.defaultFormatter": "DotJoshJohnson.xml"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
     }
 }
