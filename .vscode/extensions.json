@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        "denoland.vscode-deno",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "prisma.prisma",
+        "shakram02.bash-beautify",
+        "github.copilot",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-vsliveshare.vsliveshare",
+        "snowflake107.discordjs-helper",
+        "xabikos.javascriptsnippets",
+        "michelemelluso.code-beautifier",
+        "icrawl.discord-vscode",
+        "ms-azuretools.vscode-docker",
+        "editorconfig.editorconfig",
+        "donjayamanne.githistory",
+        "bierner.markdown-preview-github-styles"
+    ]
+}

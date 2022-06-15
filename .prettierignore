@@ -1,0 +1,14 @@
+# github
+.github
+
+# editor configs
+.idea
+.vscode
+
+# compilation output
+build
+typings
+logs
+
+# dependencies
+node_modules
